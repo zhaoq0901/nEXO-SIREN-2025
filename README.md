@@ -9,4 +9,5 @@ https://youtu.be/vpxcIna0-E0?si=dusO2OedbE_RCcMg
 
 # Acknowledgement:
 _This work is hosted by Skyline College, supported by the U.S. Department of Energy Office of Science (Office of Nuclear Physics), under Award Number DE-SC0024677._
+
 CosmicWatch Website: http://www.cosmicwatch.lns.mit.edu/
